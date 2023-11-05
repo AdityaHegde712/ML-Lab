@@ -1,2 +1,5 @@
 */*.zip
 */*.7z
+*/*.pkl
+*/*.yaml
+Lab5/__pycache__/
